@@ -7,7 +7,7 @@ from LegendGirl.Config import *
 if HELP_MSG:
     HELP_MSG = HELP_MSG
 else:
-    HELP_MSG = "[Spam Bot](https://t.me/TeamLegendXD) Help Menu"
+    HELP_MSG = "[Spam Bot](https://t.me/T34M_XD_CHAT) Help Menu"
 
 
 @Client.on_message(filters.command(["help"], prefixes=HANDLER))
